@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidGuide</string>
+    <string name="hello_world">Hello there!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+
+    <string-array name="urls">
+        <item>https://developer.android.com/training/index.html</item>
+        <item>http://developer.android.com/develop/index.html</item>
+        <item>http://developer.android.com/samples/index.html</item>
+        <item>https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources</item>
+        <item>https://github.com/codepath/android_guides/wiki</item>
+        <item>https://www.udacity.com/course/ud853</item>
+        <item>https://thenewcircle.com/s/post/1017/android_bootcamp_series_2012_video_tutorial</item>
+        <item>http://www.lynda.com/Mobile-Apps-training-tutorials/55-0.html</item>
+        <item>http://appinventor.mit.edu/explore/ai2/tutorials.html</item>
+        <item>http://www.vogella.com/tutorials/android.html</item>
+        <item>https://thinkandroid.wordpress.com/category/android-tutorials/</item>
+        <item>https://www.youtube.com/playlist?list=PL2F07DBCDCC01493A</item>
+        <item>http://www.codelearn.org/android-tutorial</item>
+        <item>http://code.tutsplus.com/categories/android</item>
+    </string-array>
+
+
+    <string-array name="terms">
+        <item>adb</item>
+        <item>lint</item>
+        <item>pm</item>
+        <item>emulator</item>
+        <item>screenshot2</item>
+        <item>gradle</item>
+        <item>src/main</item>
+        <item>res/layout</item>
+        <item>res/values</item>
+        <item>project</item>
+        <item>panel</item>
+        <item>toolbar</item>
+        <item>status bar</item>
+        <item>preview pane</item>
+        <item>android pane</item>
+        <item>project explorer</item>
+        <item>idea folder</item>
+        <item>intellisense</item>
+        <item>module</item>
+        <item>live layout</item>
+        <item>init</item>
+        <item>commit</item>
+        <item>push</item>
+        <item>add</item>
+        <item>pull</item>
+        <item>branch</item>
+        <item>clone</item>
+    </string-array>
+
+    <string-array name="defs">
+        <item>The command, which stands for "Android Debug Bridge", is a command line tool which allows the programmer to send instructions from the computer he or she is using to the emulated Android device on that computer.</item>
+        <item>A debugging tool that comes with Lint Mint.</item>
+        <item>By typing this command at the command line, one can access Android package manager.</item>
+        <item>One can find useful inforamtion about emulators installed on a computer by typing "emulator --help" at command line. An Android emulator imitates the actual operations of a mobile device on a computer.</item>
+        <item>By typing this command at the command line, one can take a snap shot of an Android device display and the snap shot is saved automatically as png image file onto the local computer.</item>
+        <item>By typing this command at the command line, one can get information about Gradle software, such as version and help.</item>
+        <item>Within the "main" directory: there are one xml file, and two sub-directories. The name of the xml is AndroidManifest.</item>
+        <item>One of the two sub-dirctories is called "java", which also includes one sub-directory called "org".Within "org", it also contains one sub-directory called "hello", within which contains a java file called "HelloActivity.java".</item>
+        <item>The other sub-directory under "main" is "res". "res" has two sub-directories called "layout" and "values".Within each of these two directories, each has an xml file. "layout" contains "hello_layout.xml" while "values" contains "strings.xml".</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+
+
+
+
+
+
+
+
+    </string-array>
+
+
+</resources>
